@@ -1,0 +1,53 @@
+[33mcommit 2190a2fcf186226b8555652c4997cbfe52b74858[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vincebus Riveruptum <q3map_2@live.cl>
+Date:   Wed Jun 15 23:24:10 2022 -0400
+
+    Eliminación de explore-component
+
+[33mcommit 8f19e8e5d03966466b47b825c32a83b9a68726c7[m
+Author: Vincebus Riveruptum <q3map_2@live.cl>
+Date:   Wed Jun 15 23:10:25 2022 -0400
+
+    Cambio de icono, y algunas labels
+
+[33mcommit caf34c87f1da54cd0a7abd5de8576036913379b6[m
+Author: personaseria23 <charliespotifai@gmail.com>
+Date:   Wed Jun 15 21:53:45 2022 -0400
+
+    fix iconos tabs
+
+[33mcommit d137eb89d2b7a4658a332710eb7d82da896e4e30[m
+Author: personaseria23 <charliespotifai@gmail.com>
+Date:   Wed Jun 15 21:44:22 2022 -0400
+
+    fix de typo
+
+[33mcommit e7f6019d05310effb351df4f13e18c59cf9976c6[m
+Author: personaseria23 <charliespotifai@gmail.com>
+Date:   Wed Jun 15 21:38:19 2022 -0400
+
+    fix de camara
+
+[33mcommit 87708f7ddd2f6c71f84935664ee8aeed867428fe[m
+Author: personaseria23 <charliespotifai@gmail.com>
+Date:   Wed Jun 15 20:58:42 2022 -0400
+
+    actualización
+
+[33mcommit 950899252fd796cac2c3283f55d5b2d6fe8048c7[m
+Author: personaseria23 <charliespotifai@gmail.com>
+Date:   Thu Jun 9 10:01:19 2022 -0400
+
+    Correción camara tab 1
+
+[33mcommit 97b933de90f45afc5f7502b30946bf6d34913ddd[m
+Author: personaseria23 <charliespotifai@gmail.com>
+Date:   Thu Jun 9 09:46:29 2022 -0400
+
+    Prueba camara tab 1
+
+[33mcommit 1b72f0dd10e17ac4ac921e0fa46e5bd910e9317c[m
+Author: personaseria23 <charliespotifai@gmail.com>
+Date:   Wed Jun 8 22:43:33 2022 -0400
+
+    Primer Commit
